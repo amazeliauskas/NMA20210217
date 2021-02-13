@@ -9,7 +9,7 @@
   
 [Nuoroda į jupyter instaliavimo instrukcijas](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)
 
-Parsisiųsk 
+Parsisiųsk pamoką [čia](https://raw.githubusercontent.com/amazeliauskas/NMA20210217/main/Pamoka_1.ipynb)
 
   
 Pamoką galima paleisti Binder platformoje ir be python diegimo kompiuteryje.
