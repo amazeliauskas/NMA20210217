@@ -1,8 +1,14 @@
 # NMA 2021 02 17
-Kompiuterinio modeliavimo pamoka
+## Kompiuterinio modeliavimo pamoka
 
-Įsidiegite python ir jupyter savo kompiuteryje arba paspauskite žemiau esančią nuorodą, kad paleistumėte pamoką Binder platformoje.
+Šiai pamokai įvykdytė nėra būtina, bet rekomenduojame kompiuteryje įsidiegti
+  - python
+  - jupyter
+  - numpy
+  - matplotlib
+  
+[Nuoroda į jupyter instaliavimo instrukcijas](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)
+  
+Pamoką galima paleisti Binder platformoje ir be python diegimo kompiuteryje.
 
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amazeliauskas/NMA20210217/main)
+Spausk [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amazeliauskas/NMA20210217/main)
