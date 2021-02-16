@@ -12,6 +12,8 @@
 Parsisiųsk pamoką [čia (pirma dalis)](https://raw.githubusercontent.com/amazeliauskas/NMA20210217/main/Pamoka_1.ipynb)
 
 Parsisiųsk pamoką [čia (antra dalis)](https://raw.githubusercontent.com/amazeliauskas/NMA20210217/main/Pamoka_2.ipynb)
+
+Parsisiųsk skaidres [čia](https://raw.githubusercontent.com/amazeliauskas/NMA20210217/main/Mazeliauskas_NMA_1.pdf)
   
 Pamoką galima paleisti Binder platformoje ir be python diegimo kompiuteryje (paleidimas gali užtrukti porą minučių).
 
